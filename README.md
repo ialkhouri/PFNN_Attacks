@@ -2,8 +2,15 @@
 
 - This repo is for the paper submitted to the AAAI 2023 Safe and Robust AI Track.  
 
-- We provide the original and adversarial sequences pushed to AlphFold. We use AlphaFold V2 located at "https://github.com/deepmind/alphafold". Samples of the .fasta files used are given inside the Sequences directory. The complete list is uploaded to the CMT website. 
-- Our scripts that process the output pdb files, performs alignment with PyMOL (where the RMSD is also calcaulted), and computes the GDT are provided. 
+- We provide the original and adversarial sequences pushed to AlphFold. We use AlphaFold V2 located at "https://github.com/deepmind/alphafold". Samples of the .fasta files used are given inside the Sequences directory. The complete list of sequences is uploaded to the CMT website. 
+
+- We generate sequences using "Find_input_search_space_ofseqs_examples.py". The comments inside the code serve as the guide to generate the adversarial sequences. 
+
+- We process the output PDB files using "processPDB_structure_Distance_COVID.py". Two samples are given inside the "out" directory. Due, to space constraints, we will provide the complete list of the PDB files (for the reduced and full database AlphaFold configuration) upon acceptance. Make sure to unzip the folder inside "out". 
+
+- The requirements to run the scripts are numpy, panda, and PyMOL. 
+
+
 
 
 
