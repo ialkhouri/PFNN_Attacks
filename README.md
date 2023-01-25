@@ -1,4 +1,4 @@
-# The Robustness of Protein Folding Neural Networks
+# Exploring The Predictive Limit of AlphaFold Again BLOSUM Based Adversarial Sequences
 
 - This repo is for the paper submitted to ICML2023
 
