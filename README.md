@@ -8,6 +8,8 @@
 
 - We process the output PDB files using "processPDB_structure_Distance_COVID.py". Two samples are given inside the "out" directory. Due, to space constraints, we will provide the complete list of the PDB files (for the reduced and full database AlphaFold configuration) upon acceptance. Make sure to unzip the folder inside "out". 
 
+- The complete original and adversarial structures for the AlphaFold full configuration are given inside the Aliged_Protein_Structures folder. 
+
 - The requirements to run the scripts are numpy, panda, and PyMOL. 
 
 
