@@ -1,4 +1,4 @@
-# Exploring The Predictive Limit of AlphaFold Again BLOSUM Based Adversarial Sequences
+# Exploring The Predictive Capabilities of AlphaFold Again BLOSUM Based Adversarial Sequences
 
 - We provide the original and adversarial sequences pushed to AlphFold. We use AlphaFold V2 located at "https://github.com/deepmind/alphafold". Samples of the .fasta files used are given inside the Sequences directory. 
 
