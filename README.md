@@ -1,4 +1,4 @@
-# Exploring The Predictive \textcolor{blue}{Capabilities} of AlphaFold Using Adversarial Protein Sequences
+# Exploring The Predictive Capabilities of AlphaFold Using Adversarial Protein Sequences
 
 - We provide the original and adversarial sequences pushed to AlphFold. We use AlphaFold V2 located at "https://github.com/deepmind/alphafold". Samples of the .fasta files used are given inside the Sequences directory. 
 
