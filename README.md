@@ -1,7 +1,5 @@
 # Exploring The Predictive Limit of AlphaFold Again BLOSUM Based Adversarial Sequences
 
-- This repo is for the paper submitted to ICML2023
-
 - We provide the original and adversarial sequences pushed to AlphFold. We use AlphaFold V2 located at "https://github.com/deepmind/alphafold". Samples of the .fasta files used are given inside the Sequences directory. 
 
 - We generate sequences using "Find_input_search_space_ofseqs_examples.py". The comments inside the code serve as the guide to generate the adversarial sequences. 
